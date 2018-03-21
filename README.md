@@ -1,1 +1,1 @@
-# jotform-linter-configs
+Common linter configuration files from JotForm.
