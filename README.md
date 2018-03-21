@@ -1,0 +1,1 @@
+# jotform-linter-configs
