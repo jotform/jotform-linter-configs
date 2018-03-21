@@ -1,15 +1,24 @@
 {
   "name": "stylelint-config-jotform",
   "version": "1.0.0",
-  "description": "Common Stye-lint config file for CSS/SASS files",
+  "description": "Global style-lint configuration for JotForm SCSS/CSS projects.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jotform/jotform-linter-configs"
+  },
   "devDependencies": {
-    "stylelint": "7.12.0",
-    "stylelint-config-standard": "16.0.0",
-    "stylelint-scss": "1.4.4"
+    "stylelint": "^7.12.0",
+    "stylelint-config-standard": "^16.0.0",
+    "stylelint-scss": "^1.4.4"
+  },
+  "peerDependencies": {
+    "stylelint": "^7.12.0",
+    "stylelint-config-standard": "^16.0.0",
+    "stylelint-scss": "^1.4.4"
   },
   "author": "",
   "license": "ISC"
