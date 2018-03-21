@@ -6,9 +6,9 @@ The rules will be updated regarding the JotForm developer feedbacks soon.
 
 First Step : Install
 
-`yarn add eslint-config-jotform --dev`
+`yarn add eslint-config-jotform eslint-config-airbnb --dev`
 or
-`npm install --save-dev eslint-config-jotform`
+`npm install --save-dev eslint-config-jotform eslint-config-airbnb`
 
 Second Step : Extend your .eslintrc
 ```js
