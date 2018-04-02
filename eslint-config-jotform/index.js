@@ -34,7 +34,7 @@ module.exports = {
     'linebreak-style': 0,
     'no-var': 0,
     'vars-on-top': 0,
-    'max-statements': ['error', 40, { 'ignoreTopLevelFunctions': true }]
+    'max-statements': ['error', 40, { 'ignoreTopLevelFunctions': true }],
     'max-lines': ['error', {'max': 1000, 'skipComments': true}],
     'complexity': ['error', 5]
   }
