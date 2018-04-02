@@ -12,7 +12,7 @@ module.exports = {
   },
   rules: {
     'react/prefer-stateless-function': 0,
-    'react/jsx-filename-extension': [1, { 'extensions': ['.js', '.jsx'] }],
+    'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx'] }],
     'react/jsx-boolean-value': 0,
     'react/no-danger': 0,
     'react/jsx-no-target-blank': 0,
@@ -34,8 +34,8 @@ module.exports = {
     'linebreak-style': 0,
     'no-var': 0,
     'vars-on-top': 0,
-    'max-statements': ['error', 40, { 'ignoreTopLevelFunctions': true }],
-    'max-lines': ['error', {'max': 1000, 'skipComments': true}],
-    'complexity': ['error', 5]
+    'max-statements': ['error', 40, { ignoreTopLevelFunctions: true }],
+    'max-lines': ['error', { max: 1000, skipComments: true }],
+    complexity: ['error', 5]
   }
 };
