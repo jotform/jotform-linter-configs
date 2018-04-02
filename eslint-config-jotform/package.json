@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-jotform",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Global ES-lint configuration for JotForm javascript projects.",
   "main": "index.js",
   "scripts": {
