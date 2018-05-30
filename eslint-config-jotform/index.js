@@ -17,6 +17,7 @@ module.exports = {
     'react/jsx-boolean-value': 0,
     'react/no-danger': 0,
     'react/jsx-no-target-blank': 0,
+    'react/jsx-max-props-per-line': [2, { maximum: 3, when: 'always' }],
     'jsx-a11y/img-has-alt': 0,
     'jsx-a11y/label-has-for': 0,
     'jsx-a11y/no-static-element-interactions': 0,
