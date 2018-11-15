@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-jotform",
-  "version": "1.0.33",
+  "version": "1.0.34",
   "description": "Global ES-lint configuration for JotForm javascript projects.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.9.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
-    "eslint-plugin-react": "^7.10.0"
+    "eslint-plugin-react": "^7.11.1"
   },
   "devDependencies": {
     "eslint": "^4.19.1"
