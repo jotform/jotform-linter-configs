@@ -20,9 +20,6 @@ module.exports = {
     'value-no-vendor-prefix': true,
     'value-list-comma-space-after': 'always',
     'value-list-comma-space-before': 'never',
-    'custom-property-empty-line-before': ['always', {
-      ignore: ['after-comment', 'inside-single-line-block'],
-    }],
     'shorthand-property-no-redundant-values': true,
     'property-case': 'lower',
     'property-no-unknown': true,

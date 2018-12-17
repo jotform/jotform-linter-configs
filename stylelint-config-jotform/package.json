@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-jotform",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Global style-lint configuration for JotForm SCSS/CSS projects.",
   "main": "index.js",
   "scripts": {
