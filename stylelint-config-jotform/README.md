@@ -13,7 +13,7 @@ or
 Second Step : Extend your .stylelintrc
 ```js
 {
-  "extends": "jotform"
+  "extends": "stylelint-config-jotform"
 }
 ```
 
